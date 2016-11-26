@@ -1,5 +1,10 @@
 class: center, middle
 
+#練習
+* ２０１６年１１月２６日　郡山　
+
+---
+
 # GitHubとPull Request ハンズオン
 
 ### エフスタ!!「あなたも恋する♡GitHub勉強会」
@@ -217,5 +222,8 @@ class: center, middle
 * Issue管理（バグトラッカー）
 * Wikiの機能
 * 自動テストとの連携
+
+---
+
 
 
