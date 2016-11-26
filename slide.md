@@ -2,6 +2,7 @@ class: center, middle
 
 #練習
 * ２０１６年１１月２６日　郡山　
+<img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/15134533_1005490476245438_6622304439564448120_n.jpg?oh=a1d7b05908b5bc4ab8a7dc9c4affe9db&oe=58FC3893">
 
 ---
 
